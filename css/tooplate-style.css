@@ -112,6 +112,7 @@ b, strong {
   vertical-align: top;
   margin-top: 5px;
   min-width: 650px;
+  min-height: 100px;
   position: relative;
 }
 
